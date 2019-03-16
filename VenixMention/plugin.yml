@@ -1,0 +1,5 @@
+name: VenixMention
+version: 1.12.2.1
+description: Mention players in chat
+author: Robnoo02
+main: me.robnoo02.venixmention.Main
